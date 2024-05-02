@@ -2,11 +2,25 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/109527592?v=4"  />
+
+###
+
+<p align="left">💻 I’m currently working on ReactJS and NodeJS<br><br>🖌️  design logos using Photoshop.</p>
+
+###
+
+<br clear="both">
+
 <h3 align="left">Languages and Tools:</h3>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -67,16 +81,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/109527592?v=4"  />
-
-###
-
-<p align="left">💻 I’m currently working on ReactJS and NodeJS<br><br>🖌️  design logos using Photoshop.</p>
 
 ###
 
